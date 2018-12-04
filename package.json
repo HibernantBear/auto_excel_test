@@ -10,5 +10,5 @@
     "test": "python ./main.py"
   },
   "author": "HibernantBear",
-  "license": "ISC"
+  "license": "MIT"
 }

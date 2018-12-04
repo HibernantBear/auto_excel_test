@@ -21,9 +21,9 @@ ___
    安装 xlrd and xlwt 库: `pip install xlrd xlwt`
 
 ### Use this tool / 使用
-1. Clone this repository: `git clone `
+1. Clone this repository: `git clone https://github.com/HibernantBear/auto_excel_test.git`
    ___
-   克隆这个仓库
+   克隆这个仓库: `git clone https://github.com/HibernantBear/auto_excel_test.git`
 2. Prepare your test paper, answer and template files
    ___
    准备你的试卷，答案和模板文件
