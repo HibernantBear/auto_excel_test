@@ -1,0 +1,14 @@
+{
+  "name": "auto_excel_test",
+  "version": "1.0.0",
+  "description": "Auto excel test paper correction and generating the scores of all paper into excel.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "python ./main.py"
+  },
+  "author": "HibernantBear",
+  "license": "ISC"
+}
